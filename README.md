@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1338028482.svg)](https://doi.org/10.5281/zenodo.21990474)
+[![DOI](https://zenodo.org/badge/1338028482.svg)](https://doi.org/10.5281/zenodo.21990474
 # Shelter Optimization Framework
 
 This repository contains the code for:  
